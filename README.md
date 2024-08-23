@@ -1,2 +1,2 @@
 # Inbyggda-system-2-Ei23
-Kodexempel för elever i kursen Inbyggda system 2 på YRGO
+Kodexempel (i framförallt Pyhton) för elever i kursen Inbyggda system 2 på YRGO.
